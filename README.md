@@ -8,11 +8,6 @@
 </div>
 
 <br><br>
-
-<p align="center">
-  <img src="https://github.com/TanatSamuttha/TanatSamuttha/blob/main/grass.gif?raw=true" width=100%>
-</p>
-
 <!--
 **muanxng/muanxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
