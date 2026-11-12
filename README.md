@@ -1,4 +1,4 @@
-<h1 align="center"> &lt Hi! 👋<img src="https://github.com/TanatSamuttha/TanatSamuttha/blob/main/hertaspin.gif?raw=true" height=50px> &gt </h1>
+<h1 align="center"> &lt Hi! 👋<img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=50px> &gt </h1>
 
 <h2 align="center">Tech Stack</h2>
 <div align="center">
