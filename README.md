@@ -2,7 +2,13 @@
 
 <h3 align="left">
   I am Kasidis Chayachawalit (Meaning), a sophomore Computer Engineering (CP) student at Chulalongkorn University.
-</h4>
+</h3>
+
+<h2 align="center">Interests</h2>
+
+<div align="left">
+  
+</div>
 
 <h2 align="center">Tech Stack</h2>
 
