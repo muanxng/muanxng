@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/muanxng/assets/main/hertasticker.png" height="150" align="absmiddle">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=48&weight=600&color=FFFFFF&height=150&width=120&vCenter=true&repeat=false&lines=Hi!" align="absmiddle" alt="Hi!">
+  Hi!
 </h1>
 
 <h4 align="left">
@@ -9,7 +9,7 @@
 
 <h2 align="center">
   <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.png" height="100" align="absmiddle">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&weight=600&color=FFFFFF&height=70&width=170&vCenter=true&repeat=false&lines=Interests" align="absmiddle" alt="Interests">
+  Interests
 </h2>
 
 <div align="left">
@@ -17,7 +17,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker2.png" height="40" align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker2.png" height="100" align="absmiddle">
   Tech Stack
 </h2>
 
@@ -28,7 +28,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker3.png" height="40" align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker3.png" height="100" align="absmiddle">
   Contact Information
 </h2>
 
