@@ -8,7 +8,10 @@
   I am Kasidis Chayachawalit, a sophomore Computer Engineering (CP) student at Chulalongkorn University.
 </h3>
 
-<h2 align="center">Interests</h2>
+<h2 align="center">
+  <img src="https://github.com/muanxng/assets/blob/main/staticherta.jpg" height=100px align="absmiddle">
+  Interests
+</h2>
 
 <div align="left">
   
