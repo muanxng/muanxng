@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker.png" height=150px align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker.png" height="100" align="middle">
   Hi!
 </h1>
 
@@ -8,7 +8,7 @@
 </h4>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.png" height=100px align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.png" height="100" align="absmiddle">
   Interests
 </h2>
 
@@ -17,7 +17,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker2.png" height=100px align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker2.png" height="100" align="absmiddle">
   Tech Stack
 </h2>
 
@@ -28,7 +28,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker3.png" height=100px align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker3.png" height="100" align="absmiddle">
   Contact Information
 </h2>
 
@@ -37,11 +37,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
-  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
-  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
-  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
-  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width="50">
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width="50">
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width="50">
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width="50">
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width="50">
 </div>
 
 <!--
