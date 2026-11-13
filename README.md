@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/muanxng/assets/main/hertasticker.png" height="150" align="absmiddle">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&weight=400&height=150&width=120&vCenter=true&repeat=false&lines=Hi!" align="absmiddle" alt="Hi!">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=48&weight=600&color=FFFFFF&height=150&width=120&vCenter=true&repeat=false&lines=Hi!" align="absmiddle" alt="Hi!">
 </h1>
 
 <h4 align="left">
