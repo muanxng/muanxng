@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker.png" height="100" align="middle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker.png" height="125" align="middle">
   Hi!
 </h1>
 
