@@ -25,7 +25,10 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
-<h2 align="center">Contact Information</h2>
+<h2 align="center">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker3.png" height=100px align="absmiddle">
+  Contact Information
+</h2>
 
 <div align="left">
   
