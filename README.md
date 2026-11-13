@@ -1,8 +1,8 @@
 <h1 align="center">Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=50px height="32" align="absmiddle"></h1>
 
-<h3 align="left">
+<h4 align="left">
   I am Kasidis Chayachawalit (Meaning). A sophomore Computer Engineering (CP) student at Chulalongkorn University.
-</h3>
+</h4>
 
 <h2 align="center">Tech Stack</h2>
 
