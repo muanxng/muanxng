@@ -1,4 +1,8 @@
-<h1 align="center">「 Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=42px align="absmiddle"> 」</h1>
+<h1 align="center">
+  「 Hi! 
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=42px align="absmiddle">
+  」
+</h1>
 
 <h3 align="left">
   I am Kasidis Chayachawalit (Meaning), a sophomore Computer Engineering (CP) student at Chulalongkorn University.
@@ -16,6 +20,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+</div>
+
+<h2 align="center">Contact Information</h2>
+
+<div align="left">
+  
 </div>
 
 <div align="center">
