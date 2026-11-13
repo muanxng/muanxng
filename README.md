@@ -17,7 +17,10 @@
   
 </div>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker2.png" height=100px align="absmiddle">
+  Tech Stack
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
