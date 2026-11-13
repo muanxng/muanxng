@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.jpg" height=100px align="absmiddle">
+  <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.png" height=100px align="absmiddle">
   Interests
 </h2>
 
