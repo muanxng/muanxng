@@ -29,11 +29,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
+  <img src="https://github.com/muanxng/assets/blob/main/hertaspin.gif" width=50px>
 </div>
 
 <!--
