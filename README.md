@@ -1,4 +1,4 @@
-<h1 align="center">「 Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height="42" align="absmiddle"> 」</h1>
+<h1 align="center">「 Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=42px align="absmiddle"> 」</h1>
 
 <h3 align="left">
   I am Kasidis Chayachawalit (Meaning), a sophomore Computer Engineering (CP) student at Chulalongkorn University.
@@ -13,7 +13,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif">
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=67px>
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=67px>
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=67px>
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=67px>
+  <img src="https://github.com/muanxng/muanxng/blob/main/hertaspin.gif" height=67px>
 </div>
 
 <!--
