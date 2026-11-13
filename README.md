@@ -28,24 +28,13 @@
   
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+  <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+</div>
 
 <!--
 **muanxng/muanxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
