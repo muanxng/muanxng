@@ -1,12 +1,17 @@
 <h1 align="center">Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=50px height="32" align="absmiddle"></h1>
-<h3 align="left">I am Kasidis Chayachawalit (Meaning)</h3>
+
+<h3 align="left">
+  I am Kasidis Chayachawalit (Meaning). A sophomore Computer Engineering (CP) student at Chulalongkorn University.
+</h3>
 
 <h2 align="center">Tech Stack</h2>
+
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
+
 <!--
 **muanxng/muanxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
