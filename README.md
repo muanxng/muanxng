@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">
-  I am Kasidis Chayachawalit (Meaning), a sophomore Computer Engineering (CP) student at Chulalongkorn University.
+  I am Kasidis Chayachawalit, a sophomore Computer Engineering (CP) student at Chulalongkorn University.
 </h3>
 
 <h2 align="center">Interests</h2>
