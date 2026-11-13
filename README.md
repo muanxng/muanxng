@@ -1,6 +1,6 @@
 <h1 align="center">「 Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height="42" align="absmiddle"> 」</h1>
 
-<h4 align="left">
+<h3 align="left">
   I am Kasidis Chayachawalit (Meaning), a sophomore Computer Engineering (CP) student at Chulalongkorn University.
 </h4>
 
