@@ -1,8 +1,6 @@
 <h1 align="center">
-  -> 
   <img src="https://github.com/muanxng/assets/blob/main/hertasticker.png" height=100px align="absmiddle">
   Hi!
-  <-
 </h1>
 
 <p align="left">
