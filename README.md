@@ -1,4 +1,4 @@
-<h1 align="center"> &lt Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=50px height="10" align="absmiddle"> &gt </h1>
+<h1 align="center">Hi! <img src="https://github.com/muanxng/muanxng/blob/main/hertasticker.png" height=50px height="32" align="absmiddle"></h1>
 <h3 align="left">I am Kasidis Chayachawalit (Meaning)</h3>
 
 <h2 align="center">Tech Stack</h2>
