@@ -4,9 +4,9 @@
   <-
 </h1>
 
-<h3 align="left">
+<p align="left">
   I am Kasidis Chayachawalit, a sophomore Computer Engineering (CP) student at Chulalongkorn University.
-</h3>
+</p>
 
 <h2 align="center">
   <img src="https://github.com/muanxng/assets/blob/main/staticherta.jpg" height=100px align="absmiddle">
