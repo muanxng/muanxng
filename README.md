@@ -30,20 +30,20 @@
 
 <table align="center" width="100%">
   <tr>
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
-    <img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50">
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/muanxng/muanxng/main/hertaspin.gif" width="50"></td>
   </tr>
 </table>
 
