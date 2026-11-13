@@ -3,9 +3,9 @@
   Hi!
 </h1>
 
-<p align="left">
+<h4 align="left">
   I am Kasidis Chayachawalit, a sophomore Computer Engineering (CP) student at Chulalongkorn University.
-</p>
+</h4>
 
 <h2 align="center">
   <img src="https://github.com/muanxng/assets/blob/main/hertasticker4.png" height=100px align="absmiddle">
